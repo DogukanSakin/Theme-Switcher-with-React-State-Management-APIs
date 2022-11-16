@@ -1,6 +1,6 @@
 # Theme Switcher with React State Management APIs
 
-This repository contains simple theme change applications developed using the State Management APIs in React.js. If you want, you can follow the creation process of this resource on my [YouTube channel]().  
+This repository contains simple theme change applications developed using the State Management APIs in React.js. If you want, you can follow the creation process of this resource on my [YouTube channel](https://youtu.be/O5sml4hkXgc).  
 
 ## Emulator Screenshots
 <div align='center'>
